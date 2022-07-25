@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Video tutorial
+[Laravel REST API Tutorial](https://www.youtube.com/watch?v=wlx5TZOV8_Q)
+NOTE: Pay attention with your php version to set up mongodb.dll in your system.
+
+
+## Swagger tutorial
+[How to add swagger documentation to your laravel API](https://styde.net/como-documentar-una-api-en-laravel-usando-swagger/)
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
