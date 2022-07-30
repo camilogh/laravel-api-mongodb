@@ -15,6 +15,9 @@ NOTE: Pay attention with your php version to set up mongodb.dll in your system.
 ## Swagger tutorial
 [How to add swagger documentation to your laravel API](https://styde.net/como-documentar-una-api-en-laravel-usando-swagger/)
 
+[How to use swagger documentation](https://blog.quickadminpanel.com/laravel-api-documentation-with-openapiswagger/)
+
+
 
 ## About Laravel
 
