@@ -11,6 +11,7 @@
 [Laravel REST API Tutorial](https://www.youtube.com/watch?v=wlx5TZOV8_Q)
 NOTE: Pay attention with your php version to set up mongodb.dll in your system.
 
+Make sure to visit [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/main/versions/2.0.md)
 
 ## Swagger tutorial
 [How to add swagger documentation to your laravel API](https://styde.net/como-documentar-una-api-en-laravel-usando-swagger/)
